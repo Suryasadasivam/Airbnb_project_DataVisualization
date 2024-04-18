@@ -2,7 +2,7 @@
 
 The Airbnb Analysis project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends in the travel industry and property management domain. This report provides an overview of the project's objectives, methodology, findings, and key takeaways.
 
-1. Introduction
+**1. Introduction**
    
 **Project Overview**
 
@@ -25,7 +25,7 @@ The primary objectives of this project include:
 
 The project utilizes MongoDB Atlas as the data source, containing sample Airbnb data. The data includes information about listings, hosts, neighborhoods, pricing, ratings, and more.
 
-2. Methodology
+**2. Methodology**
 
 MongoDB Connection and Data Retrieval
 We established a connection to MongoDB Atlas and retrieved the Airbnb dataset. MongoDB queries and data retrieval operations were performed to extract the necessary information for analysis.
@@ -58,7 +58,7 @@ Dynamic and interactive visualizations were developed to allow users to filter a
 
 A comprehensive dashboard was built using Tableau or Power BI, combining various visualizations to present key insights from the analysis. This dashboard provided a holistic view of the Airbnb dataset and its patterns.
 
-3. Data Analysis and Findings
+**3. Data Analysis and Findings**
    
 **Pricing Trends**
 
@@ -72,7 +72,8 @@ Availability patterns were analyzed, indicating occupancy rates and demand fluct
 
 Location-based insights highlighted price disparities in specific regions or neighborhoods. Users could explore these insights interactively.
 
-4. Conclusion
+**4. Conclusion**
+
 **Summary of Insights**
 
 In conclusion, the Airbnb Analysis project successfully provided valuable insights into pricing variations, availability patterns, and location-based trends within the Airbnb dataset. Key findings included...
