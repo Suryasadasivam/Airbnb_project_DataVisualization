@@ -81,7 +81,11 @@ In conclusion, the Airbnb Analysis project successfully provided valuable insigh
 **Key Takeaways**
 
 The project facilitated learning outcomes in MongoDB Atlas, Streamlit, Python data analysis, geospatial analysis, and data visualization techniques. It enhanced problem-solving and data-driven decision-making skills.
+
+**Streamlit dashboard**
+
 <img width="960" alt="Airbnb project" src="https://github.com/Suryasadasivam/Airbnb_project_DataVisualization/assets/162082177/114449ac-c71f-4087-881f-2eedd0b024e9">
+
 **powerbi dashboard**
 
 ![image](https://github.com/Suryasadasivam/Airbnb_project_DataVisualization/assets/162082177/fee4f4d1-f135-49b4-9d4e-724662a5188a)
